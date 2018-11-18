@@ -1,5 +1,10 @@
 {
   "name": "react-cli",
   "version": "0.0.1",
-  "license": "MIT"
+  "license": "MIT",
+  "author": {
+    "name": "Evgeniy Troynov",
+    "email": "troinof@gmail.com",
+    "url": "https://troinof.ru/opensource/"
+  }
 }
